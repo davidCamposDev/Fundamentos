@@ -1,0 +1,15 @@
+{
+  "name": "aula8",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "hello": "npx hello-world-npm"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "hello-word-npm": "^1.3.0"
+  }
+}
